@@ -1,0 +1,43 @@
+{
+  "jadwal": [
+  {"title": "",
+  "query": "yogyakarta",
+  "for": "daily",
+  "method": 1,
+  "prayer_method_name": "Egyptian General Authority of Survey",
+  "daylight": 0,
+  "timezone": "7",
+  "map_image": "https://maps.google.com/maps/api/staticmap?center=-7.797224,110.368797&sensor=false&zoom=13&size=300x300",
+  "sealevel": "152",
+  "today_weather": {
+    "pressure": "1007",
+    "temperature": "27"
+  },
+  "link": "http://muslimsalat.com/yogyakarta",
+  "qibla_direction": "294.68",
+  "latitude": "-7.797224",
+  "longitude": "110.368797",
+  "address": "",
+  "city": "",
+  "state": "Yogyakarta",
+  "postal_code": "",
+  "country": "Indonesia",
+  "country_code": "ID",
+  "items": [
+    {
+      "date_for": "2024-6-27",
+      "fajr": "4:27 am",
+      "shurooq": "5:46 am",
+      "dhuhr": "11:41 am",
+      "asr": "3:02 pm",
+      "maghrib": "5:36 pm",
+      "isha": "6:46 pm"
+    }
+  ],
+  "status_valid": 1,
+  "status_code": 1,
+  "status_description": "Success."
+
+  }
+  ]
+}
